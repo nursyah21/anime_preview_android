@@ -28,4 +28,4 @@ source code: [ListGridAnime](/ListGridAnime/)
 my project from chapter: [compose-unit-3](https://developer.android.com/courses/android-basics-compose/unit-3)
 
 download apk from github:
-[Anime List Grid](https://github.com/nursyah21/anime_preview_android/releases/download/list_grid_v1.0/ListGridAnime_1.0-release.apk)
+[ListGridAnime_1.0-release.apk](https://github.com/nursyah21/anime_preview_android/releases/download/list_grid_v1.0/ListGridAnime_1.0-release.apk)
