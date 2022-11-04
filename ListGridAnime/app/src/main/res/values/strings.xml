@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ComposeUnit3</string>
+
+    <string name="school_uniform_title">school uniform</string>
+    <string name="cute_and_beautiful_girl_uniform_title">cute and beautiful girl uniform</string>
+    <string name="summer_girl_title">summer girl</string>
+    <string name="lovely_girl_title">lovely girl</string>
+    <string name="cute_girl_after_school_title">cute girl after school</string>
+
+    <string name="school_uniform_link">https://wallpapercave.com/w/wp5114631</string>
+    <string name="cute_and_beautiful_girl_uniform_link">https://wallpapercave.com/w/wp6825840</string>
+    <string name="summer_girl_link">https://wallpapercave.com/w/wp6825875</string>
+    <string name="lovely_girl_link">https://wallpapercave.com/w/wp6825939</string>
+    <string name="cute_girl_after_school_link">https://wallpapercave.com/w/wp6826045</string>
+    <string name="title_activity_grid">GridActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
