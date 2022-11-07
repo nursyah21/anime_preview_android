@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name" translatable="false">Japan Motivation</string>
+
+    <string-array name="quote">
+        <item>進み続けてさえいれば、遅くとも関係ない。</item>
+        <item>目指すべき所に、近道は存在しない。</item>
+        <item>この世界の内に望む変化に、あなた自身が成ってみせなさい。</item>
+        <item>きっと成功してみせる、と決心する事が何よりも重要だ。</item>
+        <item>打たないシュートは、100%外れる。</item>
+        <item>人間にとって最大の危険は、高い目標を設定して達成できないことではなく、低い目標を設定して達成してしまうことだ。</item>
+        <item>木を植えるのに一番良かった時期は２０年前だった。二番目に良い時期は今だ。</item>
+        <item>岸を見失う勇気がなければ、決して海を渡る事はできない。</item>
+        <item>人の心が思い描き信じられる事は、すべて実現可能である。</item>
+        <item>幸せはもうすでに出来上がっているものじゃない。自分の行動が引き付けるものだ。</item>
+    </string-array>
+
+    <string-array name="quote_romaji">
+        <item>
+            <string>Susumi tsudzukete sae ireba, osokutomo kankeinai.</string>
+        </item>
+        <item>Mezasubeki tokoro ni, chikamichi wa sonzai shinai.</item>
+        <item>Kono sekai no uchi ni nozomu henka ni, anata jishin ga natte mise nasai.</item>
+        <item>Kitto seikō shite miseru, to kesshin suru koto ga naniyori mo jūyōda.</item>
+        <item>Utanai shotto wa, hyaku-pāsento hazureru.</item>
+        <item>Ningen ni totte saidai no kiken wa, takai mokuhyō o settei shite tassei dekinai kotode wa naku, hikui mokuhyō o settei shite tassei shite shimau kotoda.</item>
+        <item>Kiwouerunoni ichiban yokatta jiki wa ni-jū-nen maedatta. Ni-banme ni yoi jiki wa imada.</item>
+        <item>Kishi o miushinau yūki ga nakereba, kesshite umi o wataru koto wa dekinai.</item>
+        <item>Hito no kokoro ga omoiegaki shinji rareru koto wa, subete jitsugen kanōdearu.</item>
+        <item>Shiawase wa mō sudeni dekiagatte iru mono janai. Jibun no kōdō ga hikitsukeru monoda.</item>
+    </string-array>
+
+    <string-array name="quote_translate">
+        <item>As long as you keep going, it doesn\'t matter if it\'s late.</item>
+        <item>There are no shortcuts to reach your desired destination.</item>
+        <item>Let yourself become the change you want in this world.</item>
+        <item>The most important thing is to be determined that you will succeed.</item>
+        <item>A shot you don\'t hit misses 100%.</item>
+        <item>The greatest danger to mankind is not in setting high goals and failing to achieve them, but in setting low goals and achieving them.</item>
+        <item>The best time to plant a tree was 20 years ago. The second best time is now.</item>
+        <item>You can never cross the ocean unless you have the courage to lose sight of the shore.</item>
+        <item>Everything the human mind can conceive and believe is possible.</item>
+        <item>Happiness is not something ready-made. It comes from your own actions. </item>
+    </string-array>
+    <string name="copy" translatable="false">copy</string>
+
+</resources>
